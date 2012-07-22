@@ -1,0 +1,34 @@
+/*   
+Theme Name: Newtmatic
+Theme URI: 
+Description: Based on the Thematic theme by Ian Stewart
+Author: Grant Hutchinson
+Author URI: http://splorp.com/
+Template: thematic
+Version: 1.0
+Tags: Thematic, Newton, Newted, Newtmatic
+.
+Thematic is © Ian Stewart http://themeshaper.com/
+.
+*/
+
+/* Reset browser defaults */
+@import url('../thematic/library/styles/reset.css');
+
+/* Apply basic typography styles */
+@import url('../thematic/library/styles/typography.css');
+
+/* Apply a basic layout */
+@import url('../thematic/library/layouts/2c-r-fixed.css');
+
+/* Apply basic image styles */
+@import url('../thematic/library/styles/images.css');
+
+/* Apply default theme styles and colors */
+/* Replacing all of the the default thematic styles with a local copy */
+@import url('default.css');
+
+/* Prepare theme for plugins */
+@import url('../thematic/library/styles/plugins.css');
+
+
