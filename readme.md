@@ -1,7 +1,6 @@
-Newtmatic for WordPress
-=========
+Newtmatic
 
-A child theme for the powerful [Thematic](http://themeshaper.com/thematic/) theme framework for [WordPress](http://wordpress.org/).
+A green bleeding child theme for the [Thematic](http://themeshaper.com/thematic/) framework for [WordPress](http://wordpress.org/).
 
 
 ## About
